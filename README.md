@@ -45,3 +45,5 @@ github点击个人信息的settings按钮
 之后点击developer settings
 
 默认会选择oauth apps，我们需要在这里注册一个认证应用
+
+github设置参考地址：https://developer.github.com/apps/building-oauth-apps/authorizing-oauth-apps/
